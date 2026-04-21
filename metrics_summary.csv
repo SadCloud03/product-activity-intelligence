@@ -1,0 +1,7 @@
+Metrics,values
+total raw data,8782
+total clean data,8161
+total quarantine data,621
+% of clean data,92.92871783192895%
+% of quarantine data,7.071282168071054%
+% of mismatch in dates,1.1386927806877705%
